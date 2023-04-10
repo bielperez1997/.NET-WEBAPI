@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "isssLQSlDJYtLaerFY83EG1lLcK7fTKmQ1+60Plhaos=",
+  "Source": "WEB-Service-Rest",
+  "BasePath": "_content/WEB-Service-Rest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
