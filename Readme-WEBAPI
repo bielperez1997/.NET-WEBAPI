@@ -1,0 +1,3 @@
+API no qual finalidade é fazer um CRUD simples para uma FINTECH. Ou seja, é uma API para serviços financeiros.
+
+Sendo assim, temos as opções de Saldo, Conta e Cliente.
